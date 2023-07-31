@@ -2,6 +2,14 @@
 
 A basic starter for a React.js application with Typescript.
 
+## How to use this template
+
+[Use `@artemmahey/create` to create your React.js template.](https://github.com/JeriRov/create)
+
+```sh
+npx @artemmahey/create -r name-of-app
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
