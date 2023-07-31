@@ -1,6 +1,6 @@
 {
   "name": "react-ts-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint": "eslint .",
-    "prepare": "eslint . && husky install"
+    "prepare": "node ./prepare.js"
   },
   "eslintConfig": {
     "extends": [
